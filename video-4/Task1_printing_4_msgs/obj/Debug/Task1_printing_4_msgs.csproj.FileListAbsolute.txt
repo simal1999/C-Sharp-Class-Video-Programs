@@ -1,0 +1,7 @@
+C:\C#.net programs\video-4\Task1_printing_4_msgs\bin\Debug\Task1_printing_4_msgs.exe.config
+C:\C#.net programs\video-4\Task1_printing_4_msgs\bin\Debug\Task1_printing_4_msgs.exe
+C:\C#.net programs\video-4\Task1_printing_4_msgs\bin\Debug\Task1_printing_4_msgs.pdb
+C:\C#.net programs\video-4\Task1_printing_4_msgs\obj\Debug\Task1_printing_4_msgs.csproj.AssemblyReference.cache
+C:\C#.net programs\video-4\Task1_printing_4_msgs\obj\Debug\Task1_printing_4_msgs.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-4\Task1_printing_4_msgs\obj\Debug\Task1_printing_4_msgs.exe
+C:\C#.net programs\video-4\Task1_printing_4_msgs\obj\Debug\Task1_printing_4_msgs.pdb

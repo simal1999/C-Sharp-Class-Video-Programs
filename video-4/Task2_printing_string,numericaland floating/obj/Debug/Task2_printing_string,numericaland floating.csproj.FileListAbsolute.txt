@@ -1,0 +1,7 @@
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\bin\Debug\Task2_printing_string,numericaland floating.exe.config
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\bin\Debug\Task2_printing_string,numericaland floating.exe
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\bin\Debug\Task2_printing_string,numericaland floating.pdb
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\obj\Debug\Task2_printing_string,numericaland floating.csproj.AssemblyReference.cache
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\obj\Debug\Task2_printing_string,numericaland floating.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\obj\Debug\Task2_printing_string,numericaland floating.exe
+C:\C#.net programs\video-4\Task2_printing_string,numericaland floating\obj\Debug\Task2_printing_string,numericaland floating.pdb

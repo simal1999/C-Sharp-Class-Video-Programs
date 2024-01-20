@@ -1,0 +1,14 @@
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.exe.config
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.exe
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.pdb
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.csproj.AssemblyReference.cache
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.exe
+C:\C#.net programs\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.pdb
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.exe.config
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.exe
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\bin\Debug\Task3_printing_one numeric and one float data.pdb
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.csproj.AssemblyReference.cache
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.csproj.CoreCompileInputs.cache
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.exe
+C:\C#.net\Class videos\video-4\Task3_printing_one numeric and one float data\obj\Debug\Task3_printing_one numeric and one float data.pdb

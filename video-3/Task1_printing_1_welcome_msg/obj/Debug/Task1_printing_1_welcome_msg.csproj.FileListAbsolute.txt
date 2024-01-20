@@ -1,0 +1,7 @@
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\bin\Debug\Task1_printing_1_welcome_msg.exe.config
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\bin\Debug\Task1_printing_1_welcome_msg.exe
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\bin\Debug\Task1_printing_1_welcome_msg.pdb
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\obj\Debug\Task1_printing_1_welcome_msg.csproj.AssemblyReference.cache
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\obj\Debug\Task1_printing_1_welcome_msg.csproj.CoreCompileInputs.cache
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\obj\Debug\Task1_printing_1_welcome_msg.exe
+C:\C#.net programs\video-3\Task1_printing_1_welcome_msg\obj\Debug\Task1_printing_1_welcome_msg.pdb
